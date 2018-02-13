@@ -11,3 +11,5 @@ describe('destructivelyAppendKitten(name)', function() {
   })
 })
 
+describe('destructivelyPrependKitten(name)', function() {
+  
