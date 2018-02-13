@@ -53,3 +53,5 @@ describe('removeLastKitten()', function() {
   })
 })
 
+describe('removeFirstKitten()', function() {
+  
