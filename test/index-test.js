@@ -32,3 +32,5 @@ describe('destructivelyRemoveFirstKitten()', function() {
   })
 })
 
+describe('appendKitten(name)', function() {
+  
