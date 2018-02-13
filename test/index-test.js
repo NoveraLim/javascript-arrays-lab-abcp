@@ -39,3 +39,5 @@ describe('appendKitten(name)', function() {
   })
 })
 
+describe('prependKitten(name)', function() {
+  
