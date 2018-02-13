@@ -15,4 +15,6 @@ describe('destructivelyPrependKitten(name)', function() {
   it('prepends a kitten to the beginning of the kittens array', function() {
     destructivelyPrependKitten("Bob")
     expect(kittens).toEqual(["Bob", "Milo", "Otis", "Garfield"])
-    
+  })
+})
+
