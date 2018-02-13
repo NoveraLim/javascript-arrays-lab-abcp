@@ -29,4 +29,6 @@ describe('destructivelyRemoveFirstKitten()', function() {
   it('removes the First kitten from the kittens array', function() {
     destructivelyRemoveFirstKitten()
     expect(kittens).toEqual(["Otis", "Garfield"])
-    
+  })
+})
+
