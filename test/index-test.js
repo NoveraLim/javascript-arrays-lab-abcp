@@ -27,4 +27,5 @@ describe('destructivelyRemoveLastKitten()', function() {
 
 describe('destructivelyRemoveFirstKitten()', function() {
   it('removes the First kitten from the kittens array', function() {
+    destructivelyRemoveFirstKitten()
     
