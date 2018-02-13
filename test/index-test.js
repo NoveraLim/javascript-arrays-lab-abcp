@@ -25,3 +25,5 @@ describe('destructivelyRemoveLastKitten()', function() {
   })
 })
 
+describe('destructivelyRemoveFirstKitten()', function() {
+  
