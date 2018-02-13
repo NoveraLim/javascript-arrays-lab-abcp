@@ -4,3 +4,5 @@ describe('kittens', function() {
   })
 })
 
+describe('destructivelyAppendKitten(name)', function() {
+  
