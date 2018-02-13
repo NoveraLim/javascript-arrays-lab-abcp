@@ -18,3 +18,5 @@ describe('destructivelyPrependKitten(name)', function() {
   })
 })
 
+describe('destructivelyRemoveLastKitten()', function() {
+  
