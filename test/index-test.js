@@ -1,4 +1,4 @@
-ki
+kittens = []
 
 describe('Arrays', function() {
   beforeEach(function() {
