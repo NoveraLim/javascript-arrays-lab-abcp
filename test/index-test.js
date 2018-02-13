@@ -19,4 +19,5 @@ describe('destructivelyPrependKitten(name)', function() {
 })
 
 describe('destructivelyRemoveLastKitten()', function() {
-  
+  it('removes the last kitten from the kittens array', function() {
+    
