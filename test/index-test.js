@@ -6,4 +6,5 @@ describe('kittens', function() {
 
 describe('destructivelyAppendKitten(name)', function() {
   it('appends a kitten to the end of the kittens array', function() {
+    destructivelyAppendKitten('Ralph')
     
