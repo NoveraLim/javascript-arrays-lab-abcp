@@ -46,3 +46,5 @@ describe('prependKitten(name)', function() {
   })
 })
 
+describe('removeLastKitten()', function() {
+  
