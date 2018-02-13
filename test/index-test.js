@@ -1,6 +1,8 @@
 kittens = ['Milo', 'Otis', 'Garfield'];
 
-function destructivelyAppendKitten(array, element)
+function destructivelyAppendKitten(array, element) {
+  return array
+}
   
     destructivelyAppendKitten('Ralph');
     expect(window.kittens).toEqual(["Milo", "Otis", "Garfield", "Ralph"]);
